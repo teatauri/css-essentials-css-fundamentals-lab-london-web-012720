@@ -32,7 +32,7 @@ figcaption {
   width: 800px;
 }
 
-#details {
+#details div {
   display: flex;
   float: right;
   text-align: center;
