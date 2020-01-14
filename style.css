@@ -34,6 +34,7 @@ figcaption {
 
 #details div {
   display: flex;
+  float: left;
 
   
 }
