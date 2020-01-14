@@ -16,7 +16,7 @@ img {
 header a {
   border-radius: 25px;
   background-color: hsla(360, 80%, 50%, 0.3);
-  padding: 10px;
+  padding-left: 10px;
 }
 
 figcaption {
