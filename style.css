@@ -14,7 +14,7 @@ img {
 }
 
 header a {
-  background-color: hsla(36, 65%, 75%, 1);
+  background-color: hsla(36, 55%, 75%, 1);
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 2px;
@@ -41,7 +41,7 @@ figcaption {
 
 #details div {
   width: 25%;
-  background-color: hsla(36, 65%, 75%, 1);
+  background-color: hsla(36, 55%, 75%, 1);
 }
 
 
