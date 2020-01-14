@@ -32,10 +32,9 @@ figcaption {
   width: 800px;
 }
 
-#details h3, p {
+#details {
   display: flex;
   float: left;
-
   
 }
 
