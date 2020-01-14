@@ -33,8 +33,7 @@ figcaption {
 }
 
 #details div {
-  display: block;
-  float: none;
+  float: left;
   
 }
 
