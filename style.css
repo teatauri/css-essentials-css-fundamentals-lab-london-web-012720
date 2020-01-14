@@ -6,8 +6,6 @@ body {
 
 header {
   text-align: center;
-  border-radius: 25px;
-  background-color: hsla(360, 80%, 50%, 0.3);
 }
 
 img {
@@ -17,7 +15,7 @@ img {
 
 header a {
   border-radius: 25px;
-  background-color: hsla(360, 80%, 50%, 0.3);
+  background-color: hsla(0, 100%, 50%, 0.3);
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 2px;
