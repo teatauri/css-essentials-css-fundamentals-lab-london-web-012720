@@ -34,7 +34,7 @@ figcaption {
 
 #details div {
   display: block;
-  float: inherit;
+  float: margin-right;
   
 }
 
