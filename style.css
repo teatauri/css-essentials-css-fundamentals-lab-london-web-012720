@@ -36,6 +36,7 @@ figcaption {
   display: flex;
   float: left;
   text-align: center;
+  margin: auto;
   
 }
 
